@@ -48,3 +48,8 @@ useful resource to you!
 If you figure something out that you think others could learn from, write up a 
 quick how-to document and submit it to us as a pull request. Share your 
 knowledge!
+
+## Exceptions to the CC0 1.0 Universal License ##
+
+This repository includes an adaptation of the ColorMatrix classes by 
+Quasimondo and Grant Skinner. Our license does not cover their work. 
